@@ -40,6 +40,8 @@
 	<string>LaunchScreen~ipad</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>UILaunchStoryboardName~iphone</key>
+	<string>LaunchScreen~iphone</string>
 	<key>UIMainStoryboardFile~ipad</key>
 	<string>StoryboardiPad</string>
 	<key>UIRequiredDeviceCapabilities</key>
